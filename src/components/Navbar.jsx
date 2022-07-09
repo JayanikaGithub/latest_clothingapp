@@ -78,7 +78,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LIANA.</Logo>
+          <Logo>LIANA FASHIONS.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
